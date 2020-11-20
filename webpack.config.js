@@ -36,8 +36,8 @@ module.exports = {
 						options: {
 							dev,
 							hydratable: true,
-							preprocess: sveltePreprocess(),
-							hotReload: false // pending https://github.com/sveltejs/svelte/issues/2377
+							preprocess: sveltePreprocess({postcss: true}),
+							hotReload: true // pending https://github.com/sveltejs/svelte/issues/2377
 						}
 					}
 				},
@@ -76,7 +76,7 @@ module.exports = {
 							css: false,
 							generate: 'ssr',
 							hydratable: true,
-							preprocess: sveltePreprocess(),
+							preprocess: sveltePreprocess({postcss: true}),
 							dev
 						}
 					}
