@@ -1,0 +1,15 @@
+.slide {
+    min-width: 50vw;
+}
+
+.slide.future {
+    @apply text-white-0.6;
+}
+
+.slide.past {
+    @apply text-white-0.6;
+}
+
+.slide.active {
+    @apply text-white-default;
+}

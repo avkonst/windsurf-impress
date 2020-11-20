@@ -1,25 +1,14 @@
 <script>
-	import { onMount } from 'svelte';
 	import Tailwind from '../components/Tailwind.svelte'
-
-	onMount(async () => {
-		const impressjs = await import('impress.js');
-		
-		impress().init()
-	});
+	import Impress from '../components/Impress.svelte'
 </script>
-
-<style>
-	.slide {
-		min-width: 50vw;
-	}
-</style>
 
 <svelte:head>
 	<title>Let's go Windsurfing</title>
 </svelte:head>
 
 <Tailwind/>
+<Impress/>
 
 <div id="impress"
     data-transition-duration="1000"
@@ -38,5 +27,9 @@
 	
 	<div class="step slide" data-x="0" data-y="-1500">
         <q>Don’t you think that presentations given <strong>in modern browsers</strong> shouldn’t <strong>copy the limits</strong> of ‘classic’ slide decks?</q>
+    </div>
+
+	<div class="step slide2" data-x="1000" data-y="-1500">
+        <q>Slide 3</q>
     </div>
 </div>
