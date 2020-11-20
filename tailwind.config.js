@@ -25,7 +25,7 @@ module.exports = {
     removeDeprecatedGapUtilities: true,
     purgeLayersByDefault: true,
   },
-  purge: [ './components/**/*.{js,ts,jsx,tsx}', './pages/**/*.{js,ts,jsx,tsx}', './mdx/**/*.{md,mdx}', ],
+  purge: [ "./src/**/*.svelte", "./src/**/*.html" ],
   theme: {
     fontFamily: {
       main: [

@@ -4,9 +4,9 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "dev": "sapper dev",
-    "build": "sapper build",
-    "export": "sapper export",
+    "dev": "NODE_ENV=development sapper dev",
+    "build": "NODE_ENV=production sapper build",
+    "export": "NODE_ENV=production sapper export",
     "start": "node __sapper__/build",
     "validate": "svelte-check --ignore src/node_modules/@sapper"
   },

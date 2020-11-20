@@ -5,7 +5,7 @@ const path = require('path');
 const config = require('sapper/config/webpack.js');
 const pkg = require('./package.json');
 
-const mode = process.env.NODE_ENV;
+const mode = process.env.NODE_ENV || 'development';
 const dev = mode === 'development';
 
 const alias = { svelte: path.resolve('node_modules', 'svelte') };
@@ -44,7 +44,7 @@ module.exports = {
 				fileLoaderRule
 			]
 		},
-		mode,
+		mode: mode,
 		plugins: [
 			// pending https://github.com/sveltejs/svelte/issues/2377
 			// dev && new webpack.HotModuleReplacementPlugin(),
@@ -84,7 +84,7 @@ module.exports = {
 				fileLoaderRule
 			]
 		},
-		mode,
+		mode: mode,
 		plugins: [
 			new WebpackModules()
 		],
@@ -105,6 +105,6 @@ module.exports = {
 				}
 			]
 		},
-		mode
+		mode: mode
 	}
 };
