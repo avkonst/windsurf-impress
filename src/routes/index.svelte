@@ -20,7 +20,11 @@
     data-min-scale="0"
     data-perspective="1000"
     
-	data-autoplay="7">
+    _data-autoplay="7"
+
+    data-media-autoplay="true"
+    data-media-autostop="true"
+>
 	
 	<div id="bored" class="step slide" data-x="-1000" data-y="-1500" data-autoplay="10">
         <p class="font-brand">Aren’t you just <b>bored</b> with all those slides-based presentations?</p>
@@ -33,15 +37,16 @@
 	<div class="step slide" data-x="1000" data-y="-1500">
         <q class="font-brand">Slide 3</q>
         <video
-            muted
+            _muted
             id="my-video"
             class="video-js"
-            controls
+            _controls
             preload="auto"
             width="640"
             height="264"
             poster="MY_VIDEO_POSTER.jpg"
             data-setup=""
+            onended="impress().prev()"
         >
             <track kind="captions" />
             <source src="/videos/it-is-lifetime.mp4" type="video/mp4" />

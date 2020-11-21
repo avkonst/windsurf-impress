@@ -2,6 +2,7 @@
 	import { onMount } from 'svelte';
 	onMount(async () => {
 		await import('impress.js');
+		await import('impress.js/src/plugins/media/media');
 		impress().init()
 	});
 </script>
