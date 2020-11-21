@@ -1,4 +1,4 @@
-<script>
+<script lang="js">
 	import { onMount } from 'svelte';
 	onMount(async () => {
 		await import('impress.js');
