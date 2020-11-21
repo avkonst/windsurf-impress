@@ -5,6 +5,7 @@
   "private": true,
   "scripts": {
     "dev": "cross-env NODE_ENV=development sapper dev",
+    "postinstall": "cp -r node_modules/typeface-audiowide static",
     "build": "cross-env NODE_ENV=production sapper build",
     "export": "cross-env NODE_ENV=production sapper export",
     "start": "node __sapper__/build",

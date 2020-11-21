@@ -23,7 +23,7 @@
 	data-autoplay="7">
 	
 	<div id="bored" class="step slide" data-x="-1000" data-y="-1500" data-autoplay="10">
-        <q class="font-brand">Aren’t you just <b>bored</b> with all those slides-based presentations?</q>
+        <p class="font-brand">Aren’t you just <b>bored</b> with all those slides-based presentations?</p>
     </div>
 	
 	<div class="step slide" data-x="0" data-y="-1500">
@@ -31,8 +31,9 @@
     </div>
 
 	<div class="step slide" data-x="1000" data-y="-1500">
-        <q>Slide 3</q>
+        <q class="font-brand">Slide 3</q>
         <video
+            muted
             id="my-video"
             class="video-js"
             controls
