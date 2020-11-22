@@ -1,15 +1,23 @@
 .slide {
-    min-width: 50vw;
+    display: none;
+    @apply text-white-default;
 }
 
 .slide.future {
-    @apply text-white-0.6;
+    display: block;
+    @apply opacity-60;
 }
 
 .slide.past {
-    @apply text-white-0.6;
+    display: block;
+    @apply opacity-60;
 }
 
 .slide.active {
-    @apply text-white-default;
+    display: block;
+    @apply opacity-100;
+}
+
+#why {
+    @apply opacity-100;
 }

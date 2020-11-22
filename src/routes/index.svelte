@@ -18,16 +18,14 @@
     data-height="900"
     data-max-scale="3"
     data-min-scale="0"
-    data-perspective="1000"
+    data-perspective="0"
     
-    _data-autoplay="7"
-
     data-media-autoplay="true"
     data-media-autostop="true"
 >
 	
 	<div id="why" class="step slide" data-x="0" data-y="0" data-scale="1" _data-autoplay="10">
-        <div class="w-slide h-slide  flex flex-col justify-center items-center">
+        <div class="w-slide h-slide flex flex-col justify-center items-center">
             <div class="w-full flex justify-end items-end">
                 <div>
                     <img class="w-32 h-32" alt="" src="/sailsonic_logo_contour.svg" />
