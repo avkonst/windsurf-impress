@@ -82,6 +82,12 @@ module.exports = {
     extend: {
       minHeight: {
         '2px': '2px',
+      },
+      width: {
+        'slide': '1200px'
+      },
+      height: {
+        'slide': '900px'
       }
     },
   },
