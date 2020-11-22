@@ -28,14 +28,54 @@
 	
 	<div id="why" class="step slide" data-x="0" data-y="0" data-scale="1" _data-autoplay="10">
         <div class="w-slide h-slide  flex flex-col justify-center items-center">
-            <div class="w-9/12 font-brand uppercase text-5xl font-bold text-center">
+            <div class="w-full flex justify-end items-end">
+                <div>
+                    <img class="w-32 h-32" alt="" src="/sailsonic_logo_contour.svg" />
+                    <img class="w-32 h-24" alt="" src="/black-square.jpg" />
+                </div>
+                <div>
+                    <img class="w-32 h-32" alt="" src="/sailsonic_logo_contour.svg" />
+                    <img class="w-32 h-16" alt="" src="/black-square.jpg" />
+                </div>
+                <div>
+                    <img class="w-32 h-32" alt="" src="/sailsonic_logo_contour.svg" />
+                    <img class="w-32 h-8" alt="" src="/black-square.jpg" />
+                </div>
+                <div>
+                    <img class="w-32 h-32" alt="" src="/sailsonic_logo_contour.svg" />
+                </div>
+                <div>
+                    <img class="w-32 h-8" alt="" src="/black-square.jpg" />
+                </div>
+            </div>
+            <div class="p-10 font-brand uppercase text-5xl font-bold text-center">
                 Why is Windsurfing good for you?
+            </div>
+            <div class="w-full flex justify-start items-start">
+                <div>
+                    <img class="w-32 h-8" alt="" src="/black-square.jpg" />
+                </div>
+                <div>
+                    <img class="w-32 h-32" alt="" src="/sailsonic_logo_contour.svg" />
+                </div>
+                <div>
+                    <img class="w-32 h-8" alt="" src="/black-square.jpg" />
+                    <img class="w-32 h-32" alt="" src="/sailsonic_logo_contour.svg" />
+                </div>
+                <div>
+                    <img class="w-32 h-16" alt="" src="/black-square.jpg" />
+                    <img class="w-32 h-32" alt="" src="/sailsonic_logo_contour.svg" />
+                </div>
+                <div>
+                    <img class="w-32 h-24" alt="" src="/black-square.jpg" />
+                    <img class="w-32 h-32" alt="" src="/sailsonic_logo_contour.svg" />
+                </div>
             </div>
         </div>
     </div>
 
-    <div id="it-is-fun" class="step slide" data-x="-360" data-y="-200" data-scale="0.2" _data-autoplay="10">
-        <div class="w-slide h-slide  flex flex-col justify-end items-center">
+    <div id="it-is-fun" class="step slide" data-x="36" data-y="-196" data-scale="0.05" _data-autoplay="10">
+        <div class="w-slide h-slide  flex flex-col justify-center items-center">
             <div class="p-10 w-full font-brand uppercase text-4xl font-bold text-left">
                 Absolute fun. Amazing sensations.
             </div>
@@ -64,9 +104,9 @@
             </div>
         </div>
     </div>
-	<div class="step slide" data-x="-240" data-y="0" data-scale="0.8" data-autoplay="0.001" />
+	<div class="step slide" data-x="0" data-y="0" data-scale="0.8" data-autoplay="0.001" />
 
-    <div id="it-is-challenge" class="step slide" data-x="-120" data-y="200" data-scale="0.2" _data-autoplay="10">
+    <div id="it-is-challenge" class="step slide" data-x="-12" data-y="256" data-scale="0.05" _data-autoplay="10">
         <div class="w-slide h-slide  flex flex-col justify-center items-center">
             <div class="p-10 w-full font-brand uppercase text-4xl font-bold text-left">
                 Easy to start. Hard to advance.<br/>Never gets boring.
@@ -98,7 +138,7 @@
     </div>
 	<div class="step slide" data-x="0" data-y="0" data-scale="0.8" data-autoplay="0.001" />
 
-    <div id="it-is-safe" class="step slide" data-x="120" data-y="-200" data-scale="0.2" _data-autoplay="10">
+    <div id="it-is-safe" class="step slide" data-x="164" data-y="-160" data-scale="0.05" _data-autoplay="10">
         <div class="w-slide h-slide  flex flex-col justify-center items-center">
             <div class="p-10 w-full font-brand uppercase text-4xl font-bold text-left">
                 It is very safe.<br/>Need for an adrenaline? Go extreme.
@@ -128,9 +168,9 @@
             </div>
         </div>
     </div>
-	<div class="step slide" data-x="240" data-y="0" data-scale="0.8" data-autoplay="0.001" />
+	<div class="step slide" data-x="0" data-y="0" data-scale="0.8" data-autoplay="0.001" />
 
-    <div id="it-is-healthy" class="step slide" data-x="360" data-y="200" data-scale="0.2" _data-autoplay="10">
+    <div id="it-is-healthy" class="step slide" data-x="-144" data-y="224" data-scale="0.05" _data-autoplay="10">
         <div class="w-slide h-slide  flex flex-col justify-center items-center">
             <div class="p-10 w-full font-brand uppercase text-4xl font-bold text-left">
                 Improves physical and mental health.<br/>Full body exercise. Intense energy release.
@@ -160,9 +200,9 @@
             </div>
         </div>
     </div>
-	<div class="step slide" data-x="360" data-y="0" data-scale="0.8" data-autoplay="0.001" />
+	<div class="step slide" data-x="0" data-y="0" data-scale="0.8" data-autoplay="0.001" />
 
-    <div id="slide5" class="step slide" data-x="360" data-y="-200" data-scale="0.2" _data-autoplay="10">
+    <div id="it-is-environmentally-friendly" class="step slide" data-x="292" data-y="-124" data-scale="0.05" _data-autoplay="10">
         <div class="w-slide h-slide  flex flex-col justify-center items-center">
             <div class="p-10 w-full font-brand uppercase text-4xl font-bold text-center">
                 It is environmentally friendly.
@@ -192,9 +232,9 @@
             </div>
         </div>
     </div>
-	<div class="step slide" data-x="240" data-y="0" data-scale="0.8" data-autoplay="0.001" />
+	<div class="step slide" data-x="0" data-y="0" data-scale="0.8" data-autoplay="0.001" />
 
-    <div id="it-is-affordable" class="step slide" data-x="120" data-y="200" data-scale="0.2" _data-autoplay="10">
+    <div id="it-is-affordable" class="step slide" data-x="-272" data-y="188" data-scale="0.05" _data-autoplay="10">
         <div class="w-slide h-slide  flex flex-col justify-center items-center">
             <div class="p-10 w-full font-brand uppercase text-4xl font-bold text-left">
                 It is relatively affordable sport.
@@ -226,7 +266,7 @@
     </div>
 	<div class="step slide" data-x="0" data-y="0" data-scale="0.8" data-autoplay="0.001" />
 
-    <div id="it-is-olympic" class="step slide" data-x="-120" data-y="-200" data-scale="0.2" _data-autoplay="10">
+    <div id="it-is-olympic" class="step slide" data-x="420" data-y="-92" data-scale="0.05" _data-autoplay="10">
         <div class="w-slide h-slide  flex flex-col justify-center items-center">
             <div class="p-10 w-full font-brand uppercase text-4xl font-bold text-left">
                 Lots of options. And it is Olympic sport.
@@ -256,9 +296,9 @@
             </div>
         </div>
     </div>
-	<div class="step slide" data-x="-240" data-y="0" data-scale="0.8" data-autoplay="0.001" />
+	<div class="step slide" data-x="0" data-y="0" data-scale="0.8" data-autoplay="0.001" />
 
-    <div id="it-is-lifetime" class="step slide" data-x="-360" data-y="200" data-scale="0.2" _data-autoplay="10">
+    <div id="it-is-lifetime" class="step slide" data-x="-400" data-y="152" data-scale="0.05" _data-autoplay="10">
         <div class="w-slide h-slide  flex flex-col justify-center items-center">
             <div class="p-10 w-full font-brand uppercase text-4xl font-bold text-left">
                 It is Lifetime sport.

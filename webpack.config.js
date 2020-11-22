@@ -12,7 +12,7 @@ const alias = { svelte: path.resolve('node_modules', 'svelte') };
 const extensions = ['.mjs', '.js', '.ts', '.json', '.svelte', '.html'];
 const mainFields = ['svelte', 'module', 'browser', 'main'];
 const fileLoaderRule = {
-	test: /\.(png|jpe?g|gif)$/i,
+	test: /\.(png|jpe?g|gif|svg)$/i,
 	use: [
 		'file-loader',
 	]
