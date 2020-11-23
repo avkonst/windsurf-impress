@@ -67,7 +67,7 @@
         </div>
     </div>    
 
-    <div id="why" class="step slide" data-x="0" data-y="0" data-scale="1" data-autoplay="2">
+    <div id="why" class="step slide" data-x="0" data-y="-3" data-scale="1" data-autoplay="2">
         <div class="w-slide h-slide flex flex-col justify-center items-center">
             <div class="w-full flex justify-end items-end">
                 <div>
@@ -243,7 +243,7 @@
     </div>
 	<div class="step slide" data-x="0" data-y="0" data-scale="0.8" data-autoplay="0.001" />
 
-    <div id="it-is-environmentally-friendly" class="step slide" data-x="292" data-y="-124" data-scale="0.05" _data-autoplay="10">
+    <div id="it-is-environmentally-friendly" class="step slide" data-x="292" data-y="-128" data-scale="0.05" _data-autoplay="10">
         <div class="w-slide h-slide  flex flex-col justify-center items-center">
             <div class="p-10 w-full font-brand uppercase text-4xl font-bold text-center">
                 It is environmentally friendly.
@@ -307,7 +307,7 @@
     </div>
 	<div class="step slide" data-x="0" data-y="0" data-scale="0.8" data-autoplay="0.001" />
 
-    <div id="it-is-olympic" class="step slide" data-x="420" data-y="-92" data-scale="0.05" _data-autoplay="10">
+    <div id="it-is-olympic" class="step slide" data-x="420" data-y="-94" data-scale="0.05" _data-autoplay="10">
         <div class="w-slide h-slide  flex flex-col justify-center items-center">
             <div class="p-10 w-full font-brand uppercase text-4xl font-bold text-left">
                 Lots of options. And it is Olympic sport.
@@ -389,7 +389,7 @@
                 <p><a href="https://www.navalpoint.co.nz/">Naval Point Sailing Club</a>, Lyttelton Harbour.</p>
                 <h3>When:</h3>
                 <p>Every Saturday 9:00am - 12:00am, Terms 4 (Oct - Dec) and 1 (Jan - Mar).<br/>
-                    + all other windy days all year round (intermediate windsurfers with own gear)
+                    + all other windy days all year round (intermediate windsurfers)
                 <h3>Cost:</h3>
                 <p>First year: $400 /year (gear provided)<br/>
                 Subsequent years: $200 /year (your own gear required)</p>
