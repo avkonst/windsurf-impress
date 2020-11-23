@@ -67,7 +67,7 @@
         </div>
     </div>    
 
-    <div id="why" class="step slide" data-x="0" data-y="0" data-scale="1" data-autoplay="3">
+    <div id="why" class="step slide" data-x="0" data-y="0" data-scale="1" data-autoplay="2">
         <div class="w-slide h-slide flex flex-col justify-center items-center">
             <div class="w-full flex justify-end items-end">
                 <div>
