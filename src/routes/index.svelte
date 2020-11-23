@@ -388,8 +388,8 @@
                 <h3>Where:</h3>
                 <p><a href="https://www.navalpoint.co.nz/">Naval Point Sailing Club</a>, Lyttelton Harbour.</p>
                 <h3>When:</h3>
-                <p>Every Saturday 9:00am - 12:00am, Terms 4 and 1.<br/>
-                    + all other windy days (intermediate windsurfers with own gear)
+                <p>Every Saturday 9:00am - 12:00am, Terms 4 (Oct - Dec) and 1 (Jan - Mar).<br/>
+                    + all other windy days all year round (intermediate windsurfers with own gear)
                 <h3>Cost:</h3>
                 <p>First year: $400 /year (gear provided)<br/>
                 Subsequent years: $200 /year (your own gear required)</p>
