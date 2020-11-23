@@ -8,6 +8,7 @@
     "postinstall": "cp -r node_modules/typeface-audiowide static",
     "build": "cross-env NODE_ENV=production sapper build",
     "export": "cross-env NODE_ENV=production sapper export",
+    "serve": "serve __sapper__/export",
     "start": "node __sapper__/build",
     "validate": "svelte-check --ignore src/node_modules/@sapper"
   },
@@ -15,6 +16,7 @@
     "compression": "^1.7.1",
     "impress.js": "^1.1.0",
     "polka": "next",
+    "serve": "^11.3.2",
     "sirv": "^1.0.0",
     "typeface-audiowide": "^1.1.13",
     "video.js": "^7.10.2"
