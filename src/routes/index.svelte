@@ -55,8 +55,8 @@
                     onended="impress().next()"
                 >
                     <track kind="captions" />
-                    <source src="/videos/it-is-fun.mp4" type="video/mp4" />
-                    <!-- <source src="/videos/it-is-lifetime.webm" type="video/webm" /> -->
+                    <source src="/videos/what.mp4" type="video/mp4" />
+                    <!-- <source src="/videos/what.webm" type="video/webm" /> -->
                     <p class="vjs-no-js">
                     To view this video please enable JavaScript, and consider upgrading to a
                     web browser that
@@ -135,7 +135,7 @@
                 >
                     <track kind="captions" />
                     <source src="/videos/it-is-fun.mp4" type="video/mp4" />
-                    <!-- <source src="/videos/it-is-lifetime.webm" type="video/webm" /> -->
+                    <!-- <source src="/videos/it-is-fun.webm" type="video/webm" /> -->
                     <p class="vjs-no-js">
                     To view this video please enable JavaScript, and consider upgrading to a
                     web browser that
@@ -166,8 +166,8 @@
                     onended="impress().next()"
                 >
                     <track kind="captions" />
-                    <source src="/videos/it-is-fun.mp4" type="video/mp4" />
-                    <!-- <source src="/videos/it-is-lifetime.webm" type="video/webm" /> -->
+                    <source src="/videos/it-is-challenge.mp4" type="video/mp4" />
+                    <!-- <source src="/videos/it-is-challenge.webm" type="video/webm" /> -->
                     <p class="vjs-no-js">
                     To view this video please enable JavaScript, and consider upgrading to a
                     web browser that
@@ -199,7 +199,7 @@
                 >
                     <track kind="captions" />
                     <source src="/videos/it-is-safe.mp4" type="video/mp4" />
-                    <!-- <source src="/videos/it-is-lifetime.webm" type="video/webm" /> -->
+                    <!-- <source src="/videos/it-is-safe.webm" type="video/webm" /> -->
                     <p class="vjs-no-js">
                     To view this video please enable JavaScript, and consider upgrading to a
                     web browser that
@@ -231,7 +231,7 @@
                 >
                     <track kind="captions" />
                     <source src="/videos/it-is-healthy.mp4" type="video/mp4" />
-                    <!-- <source src="/videos/it-is-lifetime.webm" type="video/webm" /> -->
+                    <!-- <source src="/videos/it-is-healthy.webm" type="video/webm" /> -->
                     <p class="vjs-no-js">
                     To view this video please enable JavaScript, and consider upgrading to a
                     web browser that
@@ -263,7 +263,7 @@
                 >
                     <track kind="captions" />
                     <source src="/videos/it-is-environmentally-friendly.mp4" type="video/mp4" />
-                    <!-- <source src="/videos/it-is-lifetime.webm" type="video/webm" /> -->
+                    <!-- <source src="/videos/it-is-environmentally-friendly.webm" type="video/webm" /> -->
                     <p class="vjs-no-js">
                     To view this video please enable JavaScript, and consider upgrading to a
                     web browser that
@@ -294,8 +294,8 @@
                     onended="impress().next()"
                 >
                     <track kind="captions" />
-                    <source src="/videos/it-is-fun.mp4" type="video/mp4" />
-                    <!-- <source src="/videos/it-is-lifetime.webm" type="video/webm" /> -->
+                    <source src="/videos/it-is-affordable.mp4" type="video/mp4" />
+                    <!-- <source src="/videos/it-is-affordable.webm" type="video/webm" /> -->
                     <p class="vjs-no-js">
                     To view this video please enable JavaScript, and consider upgrading to a
                     web browser that
@@ -327,7 +327,7 @@
                 >
                     <track kind="captions" />
                     <source src="/videos/it-is-olympic.mp4" type="video/mp4" />
-                    <!-- <source src="/videos/it-is-lifetime.webm" type="video/webm" /> -->
+                    <!-- <source src="/videos/it-is-olympic.webm" type="video/webm" /> -->
                     <p class="vjs-no-js">
                     To view this video please enable JavaScript, and consider upgrading to a
                     web browser that
@@ -384,7 +384,7 @@
             <div class="p-10 font-brand uppercase text-5xl font-bold text-center">
                 <span class="">Naval Point Sailing Club</span>
             </div>
-            <div class="prose-2xl text-white-default">
+            <div class="pt-4 prose-2xl text-white-default">
                 <h3>Where:</h3>
                 <p><a href="https://www.navalpoint.co.nz/">Naval Point Sailing Club</a>, Lyttelton Harbour.</p>
                 <h3>When:</h3>
